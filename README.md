@@ -1,2 +1,4 @@
 # cloneInstagram
- Criando tela de inicio do instagram.
+ 
+ 
+### Recriando tela de inicio do instagram.
